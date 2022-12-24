@@ -1,4 +1,4 @@
-jo/12/true
-ky/34/false
-lu/56/false
-ty/78/false
+Emanuel/12/true
+Cinthya/34/false
+Danny/56/false
+Luna/78/false
